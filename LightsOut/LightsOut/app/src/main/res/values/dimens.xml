@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margen">16dp</dimen>
+    <dimen name="separacion_casilla">4dp</dimen>
+    <dimen name="radio_casilla">12dp</dimen>
+</resources>

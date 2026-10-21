@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lights Out</string>
+    <string name="tamano">Tamaño:</string>
+    <string name="movimientos">Movimientos: %1$d</string>
+    <string name="tiempo">Tiempo: %1$s</string>
+    <string name="reiniciar">Reiniciar</string>
+    <string name="nueva_partida">Nueva partida</string>
+    <string name="victoria_titulo">¡Has ganado!</string>
+    <string name="victoria_mensaje">Has encendido todas las casillas en %1$d movimientos y %2$s.</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="casilla_desc">Fila %1$d, columna %2$d, %3$s</string>
+    <string name="estado_primario">apagada</string>
+    <string name="estado_secundario">encendida</string>
+    <string name="objetivo">Objetivo: pon todas las casillas en amarillo</string>
+
+    <string-array name="tamanos">
+        <item>3 x 3</item>
+        <item>4 x 4</item>
+        <item>5 x 5</item>
+    </string-array>
+</resources>

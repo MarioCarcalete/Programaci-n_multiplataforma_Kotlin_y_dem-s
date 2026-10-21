@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Selector de color</string>
+    <string name="titulo_picker">Elige un color</string>
+    <string name="color_actual">Color actual: %1$s</string>
+    <string name="predeterminado">Predeterminado</string>
+    <string name="elegir_color">Elegir Color de Fondo</string>
+    <string name="rojo">Rojo</string>
+    <string name="verde">Verde</string>
+    <string name="azul">Azul</string>
+</resources>

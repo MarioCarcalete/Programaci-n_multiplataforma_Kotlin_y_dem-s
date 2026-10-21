@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Android 15+: desactiva el modo "edge-to-edge" obligatorio para que
+         la barra superior no tape el contenido de la pantalla -->
+    <style name="Theme.App" parent="Theme.Material3.Light">
+        <item name="colorPrimary">@color/primario</item>
+        <item name="colorSecondary">@color/secundario</item>
+        <item name="android:windowOptOutEdgeToEdgeEnforcement">true</item>
+    </style>
+</resources>

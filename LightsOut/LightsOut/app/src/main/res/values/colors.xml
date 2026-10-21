@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Color primario: casilla apagada / Color secundario: casilla encendida -->
+    <color name="primario">#37474F</color>
+    <color name="secundario">#FFC107</color>
+    <color name="fondo">#ECEFF1</color>
+    <color name="reiniciar">#C62828</color>
+    <color name="nueva">#2E7D32</color>
+    <color name="texto">#212121</color>
+</resources>
