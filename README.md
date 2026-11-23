@@ -29,6 +29,11 @@ Una pantalla principal con dos botones que abren dos actividades:
 
 La pantalla principal abre un selector de color (rojo, verde o azul) y recibe el color elegido con `registerForActivityResult` para cambiar el fondo. Si vuelves atrás sin elegir, no pasa nada.
 
+## 📄 Documentación
+
+- [`docs/Memoria_LightsOut.odt`](docs/Memoria_LightsOut.odt): memoria del proyecto LightsOut (diseño, mejoras y capturas).
+- [`docs/Apuntes_Lanzamiento_Dados.pdf`](docs/Apuntes_Lanzamiento_Dados.pdf): apuntes de clase sobre layouts con `ConstraintLayout` (app de lanzar dados).
+
 ## ▶️ Cómo abrirlas
 
 1. Clona el repo: `git clone https://github.com/MarioCarcalete/Programaci-n_multiplataforma_Kotlin_y_dem-s.git`
