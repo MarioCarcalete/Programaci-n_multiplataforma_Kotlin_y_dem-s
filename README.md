@@ -31,12 +31,12 @@ La pantalla principal abre un selector de color (rojo, verde o azul) y recibe el
 
 ## 📄 Documentación
 
-- [`docs/Memoria_LightsOut.odt`](docs/Memoria_LightsOut.odt): memoria del proyecto LightsOut (diseño, mejoras y capturas).
-- [`docs/Apuntes_Lanzamiento_Dados.pdf`](docs/Apuntes_Lanzamiento_Dados.pdf): apuntes de clase sobre layouts con `ConstraintLayout` (app de lanzar dados).
+- [`LightsOut/Memoria_LightsOut.odt`](LightsOut/Memoria_LightsOut.odt): memoria del proyecto LightsOut (diseño, mejoras y capturas).
+- [`Lanzamiento_Dados.pdf`](Lanzamiento_Dados.pdf): apuntes de clase sobre layouts con `ConstraintLayout` (app de lanzar dados).
 
 ## ▶️ Cómo abrirlas
 
-1. Clona el repo: `git clone https://github.com/MarioCarcalete/Programaci-n_multiplataforma_Kotlin_y_dem-s.git`
+1. Clona el repo: `git clone https://github.com/MarioCarcalete/Programacion_Movil_Multiplataforma.git`
 2. En Android Studio: **File → Open** y elige la carpeta interior de la app (por ejemplo `LightsOut/LightsOut`).
 3. Espera al *Gradle Sync* y ejecútala en el emulador o en tu móvil.
 
